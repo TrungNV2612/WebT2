@@ -6,9 +6,11 @@
 }
 .button-language{
     color: white;
+    padding: 10px;
 }
 .button-certified{
     color: #ffeb3b;
+    padding: 5px;
 }
 .column{
     float:left;
